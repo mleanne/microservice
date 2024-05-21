@@ -39,15 +39,15 @@
           return data
 
 # EXAMPLE CALL:
-  example_data = {
-        'Food': 5.50,
-        'Gas': 72.90,
-        'Housing': 33.00,
-        'Personal': 9.80
-    }
-bar_graph_data = bar_graph(example_data)
+        example_data = {
+              'Food': 5.50,
+              'Gas': 72.90,
+              'Housing': 33.00,
+              'Personal': 9.80
+          }
+      bar_graph_data = bar_graph(example_data)
 
-    print(bar_graph_data)
+          print(bar_graph_data)
 
 ![image](https://github.com/mleanne/microservice/assets/102642840/0acecd56-f708-47e6-91d1-f7061a34bb63)
 
